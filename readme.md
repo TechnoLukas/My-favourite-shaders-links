@@ -1,4 +1,4 @@
-# My fovourite shader links
+# My favourite shader links
 
 ### Shadertoy Series
 - https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/
