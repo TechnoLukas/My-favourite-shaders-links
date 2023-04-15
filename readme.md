@@ -1,5 +1,8 @@
 # My favourite shader links
 
+### Godot4 shader improvements
+- https://godotengine.org/article/improvements-shaders-visual-shaders-godot-4/
+
 ### Shadertoy Series
 - https://inspirnathan.com/posts/47-shadertoy-tutorial-part-1/
 
